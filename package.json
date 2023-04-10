@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API Desenvolvida no programa Explorer da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
